@@ -1,6 +1,6 @@
 # Predicting LaLiga match outcomes
 
-Predicting if a team will win using a random forest classifier on the (2019-2025) dataset from Kaggle
+Predicting if a team will win using a random forest classifier on the (2019-2025) LaLiga matches dataset from Kaggle
 
 ## The link to the dataset:
 
